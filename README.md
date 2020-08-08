@@ -1,1 +1,0 @@
-# Estad-stica-Actuarial-I
