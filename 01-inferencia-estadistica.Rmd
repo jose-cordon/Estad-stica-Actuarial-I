@@ -1,0 +1,20 @@
+---
+title: "Inferencia Estadística"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Inferencia estadística
+
+\textbf{Definición}: hacer afirmaciones probabilísticas respecto a (acerca de) cantidades desconocidas.
+
+## Ejemplo:
+
+\textbf{Pregunta}: ¿será posible modelar cuánto dura un componente electrónico en fallar?
+
+\textbf{Solución}: asuma que los tiempos de vida son exponenciales (en años).
+$$\text{Tasa de fallo}: \theta > 0$$
+### Observación
